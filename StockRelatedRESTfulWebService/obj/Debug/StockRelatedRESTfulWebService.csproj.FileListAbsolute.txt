@@ -1,0 +1,7 @@
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\bin\StockRelatedRESTfulWebService.dll.config
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\bin\StockRelatedRESTfulWebService.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\bin\StockRelatedRESTfulWebService.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\obj\Debug\StockRelatedRESTfulWebService.csprojAssemblyReference.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\obj\Debug\StockRelatedRESTfulWebService.csproj.CoreCompileInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\obj\Debug\StockRelatedRESTfulWebService.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedRESTfulWebService\obj\Debug\StockRelatedRESTfulWebService.pdb

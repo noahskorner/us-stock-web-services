@@ -1,0 +1,11 @@
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\StockRelatedWebServices.dll.config
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\StockRelatedWebServices.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\StockRelatedWebServices.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\obj\Debug\StockRelatedWebServices.csprojAssemblyReference.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\obj\Debug\StockRelatedWebServices.csproj.CoreCompileInputs.cache
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\obj\Debug\StockRelatedWebServices.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\obj\Debug\StockRelatedWebServices.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\HtmlAgilityPack.dll
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\HtmlAgilityPack.pdb
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\bin\HtmlAgilityPack.xml
+C:\Users\noahs\Desktop\School\CSE 445\Project 3\korner_noah_project3_tryIt_page\StockRelatedWebServices\obj\Debug\StockRelatedWebServices.csproj.CopyComplete
